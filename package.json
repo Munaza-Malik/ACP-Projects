@@ -1,0 +1,25 @@
+{
+  "name": "acp-project",
+  "version": "1.0.0",
+  "description": "Practice programs of ACP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munaza-Malik/ACP-Projects.git"
+  },
+  "keywords": [],
+  "author": "Munaza Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munaza-Malik/ACP-Projects/issues"
+  },
+  "homepage": "https://github.com/Munaza-Malik/ACP-Projects#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {}
+}
